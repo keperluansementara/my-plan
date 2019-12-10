@@ -3,3 +3,5 @@ My Plan Keperluansementara 2020
 - Membuat platfrom untuk pengelolaan video
 - Membuat OnlineShop
 - Membuat Aplikasi Android
+- Membuat Forum diskusi
+- Membuat Web catatan belajar web
